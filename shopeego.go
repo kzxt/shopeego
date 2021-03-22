@@ -48,7 +48,7 @@ type ClientVersion int
 
 const (
 	urlTestSandbox string = "https://partner.test-stable.shopeemobile.com/"
-	urlStandard    string = "https://partner.test-stable.shopeemobile.com/"
+	urlStandard    string = "https://partner.shopeemobile.com/"
 )
 
 type ClientOptions struct {
