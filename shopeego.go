@@ -47,7 +47,7 @@ const (
 type ClientVersion int
 
 const (
-	urlTestSandbox string = "https://partner.uat.shopeemobile.com/"
+	urlTestSandbox string = "https://partner.test-stable.shopeemobile.com/"
 	urlStandard    string = "https://partner.shopeemobile.com/"
 )
 
